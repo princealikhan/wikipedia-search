@@ -9,6 +9,11 @@
     <meta content="PPType" name="author" />
     <meta content="#ffffff" name="theme-color" />
     <title>Semantic-UI-Forest, collection of design, themes and templates for Semantic-UI.</title>
+          <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="../../static/dist/semantic-ui/semantic.min.css">   
+
+    <script src="../../static/dist/jquery/jquery.min.js"></script>
   <body>
   </body>
 </html>
