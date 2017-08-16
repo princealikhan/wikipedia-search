@@ -15,5 +15,20 @@
 
     <script src="../../static/dist/jquery/jquery.min.js"></script>
   <body>
+    <div class="ui inverted vertical center aligned segment background">
+      <div class="ui text container">
+        <h1 class="ui inverted header">
+          Search wikipedia articles
+        </h1>
+        
+        <div class="ui search">
+          <div class="ui left icon input">
+            <input class="prompt" placeholder="Start typing here..." type="text">
+            <i class="wikipedia icon"></i>
+          </div>
+        </div>
+
+      </div>
+    </div>
   </body>
 </html>
